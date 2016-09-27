@@ -4,7 +4,8 @@
     padding: 20px 20px 20px 40px;
 }
 
-.page-header h1, .page-header i, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active{
+
+.page-header h1, .page-header i, .page-header h1 a:visited, .page-header h1 a:active{
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
@@ -31,11 +32,16 @@ h1, h2, h3, h4 {
     width: 100%;
 }
 
-.top-menu, .top-menu:hover, .top-menu:visited {
+.top-menu, .top-menu:visited {
     color: #ffffff;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+}
+
+.small {
+    font-size: 90%;
+    margin-top: 50px;
 }
 
 .btn {
