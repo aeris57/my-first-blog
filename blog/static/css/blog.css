@@ -14,11 +14,11 @@
 .content {
     margin-top: 30px;
     margin-left: 40px;
-    font-family: 'Coming Soon';
+    font-family: 'Nunito', sans-serif;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Coming Soon', cursive;
+    font-family: 'Pacifico', cursive;
 }
 
 .date {
